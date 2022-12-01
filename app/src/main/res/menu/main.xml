@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_address"
+        android:icon="@drawable/ic_address"
+        android:title="Số 18 Đan Phượng, Hà Nội"/>
+    <item android:id="@+id/menu_facebook"
+        android:icon="@drawable/ic_contact"
+        android:title="Facebook.com/Highlands Coffee"/>
+    <item android:id="@+id/menu_phone"
+        android:icon="@drawable/ic_phone"
+        android:title="0983888888"/>
+</menu>
